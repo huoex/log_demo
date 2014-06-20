@@ -12,6 +12,7 @@ public class printlogTest {
 //		printlog.errlog();
 //		printlog.infolog();
 		printlog.tt();
+		
 //		fail("Not yet implemented");
 	}
 
