@@ -17,8 +17,8 @@
 		<level value="DEBUG"/>
 		<appender-ref ref="ibatis"/>
 	</logger>
-	<logger name="hex.com.log" additivity="false">
-		<level value="DEBUG"/>
+	<logger name="hex.com" additivity="false">
+		<level value="TRACE"/>
 		<appender-ref ref="ibatis"/>
 	</logger>
 </log4j:configuration>
